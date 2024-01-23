@@ -6,7 +6,11 @@ C++ Training with examples written by the cpp-dojo community
 
 C++ Training with examples written by the cpp-dojo community
 
-Copyright (C) 2023 Mert Gör and contributors
+Copyright (C) 2023-2024 Mert Gör and contributors
+
+Copyright (C) 2023-2024 Masscollabs Services
+
+Copyright (C) 2023-2024 Mass Collaboration Labs and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
