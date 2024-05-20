@@ -2,6 +2,24 @@
 
 C++ Training with examples written by the cpp-dojo community
 
+# Forge Platforms
+
+* https://github.com/hwpplayer1/cpp-dojo
+
+* https://gitlab.com/hwpplayer1/cpp-dojo
+
+* https://git.sr.ht/~mertgor/cpp-dojo
+
+* https://git.vern.cc/hwpplayer1/cpp-dojo
+
+* https://git.disroot.org/hwpplayer1/cpp-dojo
+
+* https://codeberg.org/hwpplayer1/cpp-dojo
+
+* https://git.truvalinux.org.tr/hwpplayer1/cpp-dojo
+
+* and your local reposıtory on your own computer
+
 # License
 
 C++ Training with examples written by the cpp-dojo community
