@@ -1,0 +1,4 @@
+2024-06-24  hwpplayer1  <hwpplayer1@debian>
+
+	* src/while_statement.cpp (main): While example written
+
