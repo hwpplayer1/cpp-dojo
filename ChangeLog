@@ -1,4 +1,6 @@
 2024-06-24  hwpplayer1  <hwpplayer1@debian>
 
+	* src/sum_numbers.cpp (main): Sum of 50 to 100 inclusive is ...
+
 	* src/while_statement.cpp (main): While example written
 
