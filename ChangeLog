@@ -1,5 +1,7 @@
 2024-06-24  hwpplayer1  <hwpplayer1@debian>
 
+	* src/for_example.cpp: For example sum of 1 to 10 inclusive is ...
+
 	* src/sum_numbers.cpp (main): Sum of 50 to 100 inclusive is ...
 
 	* src/while_statement.cpp (main): While example written
