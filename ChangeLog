@@ -1,5 +1,7 @@
 2024-06-30  hwpplayer1  <hwpplayer1@debian>
 
+	* src/reused_scope.cpp: reused scope example writtenx
+
 	* src/scope_example.cpp: scope example sum of 1 to 10 inclusive is explained
 
 	* src/if_statement.cpp: if statement explained/code written
