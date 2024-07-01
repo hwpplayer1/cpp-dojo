@@ -1,3 +1,7 @@
+2024-07-01  hwpplayer1  <hwpplayer1@debian>
+
+	* src/local_j.cpp: local j value test code 
+
 2024-06-30  hwpplayer1  <hwpplayer1@debian>
 
 	* src/reused_scope.cpp: reused scope example writtenx
