@@ -1,3 +1,11 @@
+2024-07-26  hwpplayer1  <hwpplayer1@debian>
+
+	* src/decleration.cpp: decleration example
+
+	* src/namespace_decleration.cpp: namespace / decleration example
+
+	* C++ Primer (5th Edition).pdf: 3.2. Library string Type page 125
+
 2024-07-03  hwpplayer1  <hwpplayer1@debian>
 
 	* README.md: Chapter 3. Strings, Vectors, and Arrays page 122
