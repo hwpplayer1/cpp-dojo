@@ -4,6 +4,8 @@ C++ Training
 
 # Forge Platforms
 
+* https://source.masscollabs.xyz/masscollaborationlabs/cpp-dojo
+
 * https://github.com/hwpplayer1/cpp-dojo
 
 * https://gitlab.com/hwpplayer1/cpp-dojo
