@@ -1,8 +1,7 @@
 #include <iostream>
 
-int main()
-{
-  std::cout << "Hello World of C++\n";
-  
-  return 0;
+int main() {
+  std::cout << "hello c++ 20!" << std::endl;
+
+  return  0;
 }

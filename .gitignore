@@ -92,3 +92,10 @@ flycheck_*.el
 
 
 # End of https://www.toptal.com/developers/gitignore/api/emacs
+
+
+# Emacs as IDE for C++
+
+.ccls-cache/
+*.swp
+*~
