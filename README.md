@@ -6,19 +6,21 @@ C++ Training
 
 * https://source.masscollabs.xyz/masscollaborationlabs/cpp-dojo
 
-* https://github.com/hwpplayer1/cpp-dojo
-
-* https://gitlab.com/hwpplayer1/cpp-dojo
-
-* https://git.sr.ht/~mertgor/cpp-dojo
-
-* https://git.vern.cc/hwpplayer1/cpp-dojo
+* https://codeberg.org/hwpplayer1/cpp-dojo
 
 * https://git.disroot.org/hwpplayer1/cpp-dojo
 
-* https://codeberg.org/hwpplayer1/cpp-dojo
+* https://git.vern.cc/hwpplayer1/cpp-dojo
 
-* https://git.truvalinux.org.tr/hwpplayer1/cpp-dojo
+* https://git.emin.software/hwpplayer1/cpp-dojo
+
+* https://git.truvalinux.org.tr/hwpplayer1/cpp-dojo ( down not working )
+
+* https://git.sr.ht/~mertgor/cpp-dojo
+
+* https://gitlab.com/hwpplayer1/cpp-dojo
+
+* https://github.com/hwpplayer1/cpp-dojo
 
 * and your local reposıtory on your own computer
 

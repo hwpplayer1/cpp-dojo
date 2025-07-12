@@ -1,5 +1,9 @@
 2025-07-12  Mert Gör  <hwpplayer1@masscollabs>
 
+	* README.md: README links updated
+
+	* src/hello.cpp: a hello world example std 20
+
 	* README.md: experimental2025 started
 
 2024-07-26  hwpplayer1  <hwpplayer1@debian>
